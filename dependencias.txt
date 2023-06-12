@@ -1,0 +1,22 @@
+Backend
+npm install --save express-validator 
+npm install express
+nom install nodemon
+npm install pg
+npm install bcryptjs
+
+===============================
+Scripts para ejecutar backend:
+npm run dev
+===============================
+
+Frontend
+npm install node (actualizar node 20.x)
+npm install yarn
+npm install axios
+npm install bcryptjs
+
+=============================
+SCripts Frontend:
+npm run start (daysi)
+=============================
